@@ -1,4 +1,4 @@
-# NIYAMR AI – PDF Rule Checker
+# AI – PDF Rule Checker
 
 A professional AI-powered tool that audits PDFs against custom rules and returns structured JSON results. Built with **React**, **Node.js**, and the **Gemini API**, it provides an interactive user interface with real-time results.
 
